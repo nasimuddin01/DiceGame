@@ -1,0 +1,44 @@
+body {
+  background-color: #08d9d6;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 60px;
+  font-family: monospace;
+  color: red;
+  font-size: 3rem;
+}
+
+.player1 {
+  margin-left: 60px;
+  margin-top: 50px;
+}
+
+.h21 {
+  position: relative;
+  right: 10%;
+  color:red;
+}
+
+.h22 {
+  position: relative;
+  bottom: 59px;
+  margin-left: 25%;
+  color:red;
+}
+
+.img {
+  border-radius: 10%;
+  margin-right: 30px;
+}
+.set{
+margin-top: 10px;
+font-family: monospace;
+font-size: 1.5rem;
+}
+footer{
+  font-family: monospace;
+  font-size: 2rem;
+}
