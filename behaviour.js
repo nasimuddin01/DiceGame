@@ -8,42 +8,42 @@ number2=Math.round(number2*6);
 
 //conditional logic section for player1
 if(number1==1){
-  document.querySelector(".player1").setAttribute("src","image/one.png");
+  document.querySelector(".player1").setAttribute("src","/one.png");
 }
 else if (number1==2) {
-  document.querySelector(".player1").setAttribute("src","image/two.png");
+  document.querySelector(".player1").setAttribute("src","/two.png");
 }
 else if(number1==3){
-  document.querySelector(".player1").setAttribute("src","image/three.png");
+  document.querySelector(".player1").setAttribute("src","/three.png");
 }
 else if (number1==4) {
-  document.querySelector(".player1").setAttribute("src","image/four.png");
+  document.querySelector(".player1").setAttribute("src","/four.png");
 }
 else if(number1==5){
-  document.querySelector(".player1").setAttribute("src","image/five.png");
+  document.querySelector(".player1").setAttribute("src","/five.png");
 }
 else {
- document.querySelector(".player1").setAttribute("src","image/six.png");
+ document.querySelector(".player1").setAttribute("src","/six.png");
 }
 
 //conditional logic for player 2
 if(number2==1){
-  document.querySelector(".player2").setAttribute("src","image/one.png");
+  document.querySelector(".player2").setAttribute("src","/one.png");
 }
 else if (number2==2) {
-  document.querySelector(".player2").setAttribute("src","image/two.png");
+  document.querySelector(".player2").setAttribute("src","/two.png");
 }
 else if(number2==3){
-  document.querySelector(".player2").setAttribute("src","image/three.png");
+  document.querySelector(".player2").setAttribute("src","/three.png");
 }
 else if (number2==4) {
-  document.querySelector(".player2").setAttribute("src","image/four.png");
+  document.querySelector(".player2").setAttribute("src","/four.png");
 }
 else if(number2==5){
-  document.querySelector(".player2").setAttribute("src","image/five.png");
+  document.querySelector(".player2").setAttribute("src","/five.png");
 }
 else {
- document.querySelector(".player2").setAttribute("src","image/six.png");
+ document.querySelector(".player2").setAttribute("src","/six.png");
 }
 
 
